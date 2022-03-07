@@ -11,16 +11,25 @@
     }
 
     .light-title{
-        font-size: 15px;
+        font-size: 22px;
         text-align: center;
+    }
+
+    .bold-title-head{
+        font-size: 22px
     }
 
     .bold-title{
         font-size: 13px;
     }
 
+    .light-p-head{
+        font-size: 13px;
+        margin: auto 20px;
+    }
+
     .light-p{
-        font-size: 8px
+        font-size: 10px
     }
 
     .cards{
@@ -30,7 +39,7 @@
 
     .cards.four{
         margin: auto;
-        margin-top: 120px;
+        margin-top: 170px;
     }
 
     .img-size{
