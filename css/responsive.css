@@ -1,0 +1,61 @@
+@media (max-width: 1200px) {
+    body{
+        text-align: center;
+        justify-content: center;
+        margin: 0 40px;
+        height: auto;
+    }
+
+    main{
+        margin: auto;
+    }
+
+    .light-title{
+        font-size: 15px;
+        text-align: center;
+    }
+
+    .bold-title{
+        font-size: 13px;
+    }
+
+    .light-p{
+        font-size: 8px
+    }
+
+    .cards{
+        width: 300px;
+        margin: auto
+    }
+
+    .cards.four{
+        margin: auto;
+        margin-top: 120px;
+    }
+
+    .img-size{
+        width: 35px;
+    }
+
+    .push-left{
+        margin-left: 0;
+    }
+
+    .push-down{
+        margin-top: 0;
+    }
+
+    .four{
+        position: initial;
+    }
+
+    .attribution{
+        font-size: 9px;
+    }
+
+    .cards:hover{
+        width: 303px;
+        border: 1px hsl(229, 6%, 66%) solid;
+    }
+
+}
